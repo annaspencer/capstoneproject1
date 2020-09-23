@@ -3,7 +3,7 @@ Guidelines: You will use the following technologies in this project: Python/Flas
 
 # Purpose:
 Web app will provide a tool to get to know team members and potential team members by capitalizing on their personality strengths as
-assessed by IBM's Watson Personality Insights API. Managers & Team leaders can use this information to create better placement assessments (interviews), more personalized training for new hires, and build better team relationships and leadership training for current team members. 
+assessed by IBM's Watson Personality Insights API. Managers & Team leaders can use this information to create better placement assessments (interviews), more personalized training for new hires, build better team relationships and leadership training for current team members. 
 
 # Outline: 
 
